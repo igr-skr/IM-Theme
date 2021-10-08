@@ -1,0 +1,130 @@
+@media (min-width: 992px) and (max-width:1390px){
+    #tab-description,#tab-dw_product_specifications {
+max-width:100%;
+margin:0 auto;
+padding:0 0 40px
+}
+}
+
+@media (min-width: 1200px) {
+    .site-main-blocks .main-block {
+    padding: 25px;
+        padding-left: 60px;
+}
+
+ul.products li.product:hover {
+box-shadow:0 0 10px #d1d1d1;
+z-index:9
+}
+
+ul.products li.product {
+padding:15px
+}
+}
+
+@media (max-width: 1390px) and (min-width: 992px){
+.archive.tax-product_cat .main-block {
+    padding: 25px 0 25px;
+}
+}
+
+@media (max-width: 1199px) and (min-width: 992px){
+.footer-wrapper .col-sm-3 {
+    margin-left: 0 !important;
+}
+}
+
+@media (max-width: 1080px) {
+    .site-main-blocks .main-block {
+    padding-left: 25px;
+}
+#secondary {
+    top: 0;}
+.wpcf7-form label {
+    width: 100%;}
+}
+
+@media (max-width: 991px) and (min-width: 481px){
+.site-logo img {
+    width: auto;}
+#tab-description {
+    padding: 0px !important;
+}
+}
+
+@media (max-width: 992px) {
+    ul.products li.product {
+    max-width: 50%;
+}
+#site_header .top-minicart {
+    text-align: right;
+}
+.site-header .top-minicart a .count{display: none;}
+
+.site-main-blocks-inner .main-block{max-width: 100%}
+}
+
+@media (min-width: 992px) {
+.site-header .site-logo a {
+padding:15px 0
+}
+
+.site-header .site-logo img {
+height:90px;
+max-height:90px
+}
+
+.site-main-blocks-inner .main-block {
+    min-height: 650px;
+    width: 100%;
+    padding: 25px;
+    padding-left: 60px;
+    display: block;
+}
+}
+
+@media (min-width: 768px) {
+ul.products li.product {
+float:left
+}
+
+
+}
+
+@media (max-width: 768px) {
+.site-header-inner {
+    max-height: 60px;
+}
+
+
+}
+
+@media (max-width: 420px) {
+.wpcf7-form label {
+    width: 100%;
+}
+#site_header .top-minicart{align-items:center;text-align: center;}
+.site-header .top-minicart a img{position: static;}
+.site-header .top-minicart a .count{
+    top: 13px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: -24px !important;
+    margin:auto;}
+.second-text-editor .vc_column_container.vc_col-sm-6{
+    padding-left: 20px;
+    padding-right: 20px
+}
+
+.vc_col-sm-4 .vc_btn3.vc_btn3-color-grey.vc_btn3-style-modern{    float: none;
+    margin: auto;
+    display: block;
+}
+ul.products li.product{max-width: 50%}
+.intro-homepage-inner .col-lg-8 {
+    padding-left: 15px;
+}
+#site_header .site-logo{background-color: #fff;}
+
+}
